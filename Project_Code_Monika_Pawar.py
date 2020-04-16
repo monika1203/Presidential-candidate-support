@@ -1,22 +1,4 @@
 
-"""
-===============================================================================================================
-ISYS 613 - Data Sourcing and Quality - Course_Project_Fall2019
-Dr. Jeffrey Roberts, Duquesne University - School of Business 
-===============================================================================================================
-
-Project Overview: This Project is designed to assemble data to answer the following research question:
-
-For a given 2020 Democratic Party presidential candidate, how would you characterize their support from 
-(a) a gender perspective and 
-(b) an ethnicity perspective?
-
-My_Candidate_Name: 'Booker, Cory'
-
-===============================================================================================================
-TEAM Participant - MONIKA PAWAR
-
-"""
 
 ## Import Statements
 import requests
