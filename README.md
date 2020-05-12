@@ -54,7 +54,7 @@ Ethnicity Classification (Based on ethnicolr module): In the ethnicity and gende
 (NOTE: classify each observation as belonging to one of the four ethnicities. For each observation, you are to compute the average ethnicity likelihood by ethnicity based on the results of the two estimation methods. This will yield one average estimate for each of the four ethnicities.
 assign each observation to a single ethnicity category if the average ethnicity likelihood exceeds .50. If no average ethnicity estimate exceeds .50 then, assign the observation to the ‘unknown’ ethnicity category. Incorporate your ethnicity category attribute into dataframe)
 
-Gender Classification : In this step will be using the given name (first name) from FEC dataframe to impute the gender of individual contributors, again be importing the isys613_project module.< br>
+Gender Classification : In this step will be using the given name (first name) from FEC dataframe to impute the gender of individual contributors, again be importing the isys613_project module.<br>
 
 (NOTE:The predict_gender function returns a pandas Series which is conformed to the source input dataframe. The returned Series contains the results of a naïve Bayesian gender classification model.)
 
