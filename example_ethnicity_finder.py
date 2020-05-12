@@ -1,20 +1,5 @@
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Source: https://github.com/appeler/ethnicolr
-
 import pandas as pd
 from isys613_project import predict_ethnicity_1, predict_ethnicity_2
 
